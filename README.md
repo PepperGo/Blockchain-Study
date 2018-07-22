@@ -15,3 +15,4 @@ Why I want to study Blockchain?
 ## Reference
 1. [Blockchain Tutorial for Beginners: Learn Blockchain Technology](https://www.guru99.com/blockchain-tutorial.html)
 2. [Creating Your First Blockchain with Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
+3. [Blockchain Tutorial – A Beginner’s Guide to Blockchain Technology](https://www.edureka.co/blog/blockchain-tutorial/)
